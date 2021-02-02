@@ -21,7 +21,7 @@ basemap==1.2.1
 bcrypt==3.1.7
 beautifulsoup4==4.9.0
 binwalk==2.2.0
-bleach==3.1.5
+bleach==3.3.0
 blinker==1.4
 bokeh==2.0.2
 boltons==19.1.0
