@@ -143,7 +143,7 @@ ldap3==2.5.1
 ldapdomaindump==0.9.1
 lightdm-gtk-greeter-settings==1.2.2
 louis==3.13.0
-lxml==4.5.0
+lxml==4.9.1
 lz4==3.0.2+dfsg
 Mako==1.1.2
 Markdown==3.2.1
